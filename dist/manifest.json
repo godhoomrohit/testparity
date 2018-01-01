@@ -1,0 +1,8 @@
+{
+	"id": "testparity",
+	"name": "testparity",
+	"description": "A dapp for testparity",
+	"version": "0.1",
+	"author": "Bhai",
+	"iconUrl": "title.png"
+}
